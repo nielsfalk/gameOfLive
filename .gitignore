@@ -1,0 +1,7 @@
+.DS_Store
+.swp
+.iml
+.ipr
+.iws
+.xcf
+target/
